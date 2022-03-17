@@ -1,5 +1,7 @@
 # **Irina Amelishko**
 
+![FotoIra](https://media-exp1.licdn.com/dms/image/C5603AQH74QBWDFCmXQ/profile-displayphoto-shrink_800_800/0/1633949252742?e=1652918400&v=beta&t=KIwFjiQDP7a_ZkxOGIRvp8aC5nbCGRvReNYCALBU77I "foto")
+
 ## **Junior Frontend Developer**
 ***
 
