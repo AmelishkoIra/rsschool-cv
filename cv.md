@@ -13,7 +13,9 @@
 **GitHub:** [AmelishkoIra](https://github.com/AmelishkoIra)
 
 **Linkedln:** [irina-amelishko](https://www.linkedin.com/in/irina-amelishko-668292223/) 
+
 ***
+
 ## **Briefly About Myself**
 My name is Irina Amelishko. For seven years I teach at the Belarusian National Technical University at the Department of Water Supply and water disposal. This job helped me to become sociable, disciplined, patient and multitasking.
 
@@ -30,7 +32,9 @@ I want to change my life: work and location now. I study programming and improve
 * Git, GitHub
 * VS Code
 * Django
+
 ***
+
 ## **Code example:**
 * [*The Task JavaScript*](https://stepik.org/lesson/43621/step/10) 
     ```
