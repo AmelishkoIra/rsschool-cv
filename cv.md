@@ -54,6 +54,8 @@ I want to change my life: work and location now. I study programming and improve
     ``` 
 
 * [Books's blog, Python GitHub](https://github.com/AmelishkoIra/one)
+
+
 ***
 ## **Education**
 
